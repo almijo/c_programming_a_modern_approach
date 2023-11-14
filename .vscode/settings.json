@@ -1,9 +1,4 @@
 {
     "C_Cpp.default.compilerPath": "/usr/bin/gcc",
-    "files.associations": {
-        "stdio.h": "c",
-        "limits.h": "c",
-        "stdlib.h": "c"
-    },
     "editor.formatOnSave": true
 }
