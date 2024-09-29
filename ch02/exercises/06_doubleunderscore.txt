@@ -1,0 +1,3 @@
+Identifiers that contain two adjacent underscores __, or that start with an
+underscore followed by an uppercase letter are reserved for internal use of
+the compiler.
